@@ -16,7 +16,7 @@
 ### 📨 Contact 📨
 <a href="mailto:iumd6075@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-[1EC800]?style=flat-square&logo=naver&logoColor=white"/></a>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=yanni)](https://velog.io/@yanni13) 
-https://velog.io/@yanni13
+
 <br/>
 <br/>
 
