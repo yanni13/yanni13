@@ -24,5 +24,4 @@
 ![snake gif](https://github.com/yanni13/yanni13/blob/output/github-contribution-grid-snake.svg)
 
 
-
 </div>
