@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
- <img alt="github-snake" src="https://github.com/yanni13/yanni13/blob/output/github-contribution-grid-snake.svg"/>
+ <img alt="github-snake" src="https://github.com/yanni13/yanni13/blob/output/github-contribution-grid-snake-dark.svg"/>
 
 
 
