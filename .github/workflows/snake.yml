@@ -22,7 +22,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: [yanni13]
+          github_user_name: yanni13
           # output branch에 gif, svg를 각각 생성
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
@@ -33,7 +33,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ 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 }}
+          github_token: ${{ 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 }}
           branch: master
           force: true
 
@@ -42,4 +42,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ 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 }}
+          GITHUB_TOKEN: ${{ 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 }}
