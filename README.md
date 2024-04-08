@@ -24,8 +24,5 @@
 ![snake gif](https://github.com/yanni13/yanni13/blob/output/github-contribution-grid-snake.svg)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanni13&layout=compact">
-
-
 
 </div>
