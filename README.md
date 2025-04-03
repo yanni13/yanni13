@@ -2,11 +2,15 @@
 
 <div align = "center">
 
-### Welcome!
+### Welcome! 
+<br/>
+<p>I'm <b>IOS Developer</b> <br/>
+Now I'm in <b>Apple Developer Academy @ Postech</b></p>
+
 <br/>
 <br/>
   
-### 💻 Stack - Frontend
+### 💻 Tech Stack 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
