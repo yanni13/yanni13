@@ -1,24 +1,47 @@
 
 
-<div align = "center">
+<div align = "left">
 
-### Welcome! 
+## Welcome! 
 <br/>
 <p>I'm <b>IOS Developer</b> <br/>
-Now I'm in <b>Apple Developer Academy @ Postech</b></p>
 
 <br/>
 <br/>
   
-### 💻 Tech Stack 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+## 💻 Tech Stack 
+### iOS
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=UIKit&logoColor=white"/>
+
+
+### Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=CSS&logoColor=white"/>
+
+
+
+### else ...
+<img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=Fastlane&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/jirasoftware-0052CC?style=flat-square&logo=JiraSoftware&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+
+
+## 🎓 Education
+- Bachelor’s in Computer Engineering, Yeungnam University (Mar. 2021 – Feb. 2025)
+- Participated as a Frontend Developer in LikeLion 11th Generation (Feb. 2023 – Dec. 2023)
+- Apple Developer Academy @ POSTECH (Feb. 2025 – Present)
+
+
 <br/>
 
-### 📨 Contact 📨
+## 📨 Contact
 <a href="mailto:iumd6075@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-[1EC800]?style=flat-square&logo=naver&logoColor=white"/></a>
+<a href="mailto:aushinyan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-4285F4?style=flat-square&logo=Gmail&logoColor=white"/></a>
  <a href="https://yanni13.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://velog.io/@yanni13"/></a>
  
 
