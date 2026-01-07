@@ -32,7 +32,7 @@
 
 
 ## 🎓 Education
-- Apple Developer Academy @ POSTECH (Feb. 2025 – Present)
+- Apple Developer Academy @ POSTECH (Feb. 2025 – Dec. 2025)
 - Participated as a Frontend Developer in LikeLion 11th Generation (Feb. 2023 – Dec. 2023)
 - Bachelor’s in Computer Engineering, Yeungnam University (Mar. 2021 – Feb. 2025)
 
